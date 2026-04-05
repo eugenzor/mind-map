@@ -1,0 +1,106 @@
+<opml version="2.0">
+    <head>
+        <title>Навчитися вчитися. Вивільніть свій потенціал</title>
+    </head>
+    <body>
+        <outline text="Навчитися вчитися. Вивільніть свій потенціал">
+            <outline text="Навчання — це керований процес мозку">
+                <outline text="можна «переналаштувати» мозок"/>
+                <outline text="формуються нейронні зв’язки через практику"/>
+                <outline text="потрібні системність і терпіння"/>
+            </outline>
+
+            <outline text="Два режими мислення">
+                <outline text="сфокусований: концентрація, логіка"/>
+                <outline text="розслаблений: інсайти, підсвідомість"/>
+                <outline text="важливо чергувати обидва режими"/>
+            </outline>
+
+            <outline text="Концентрація + перерви">
+                <outline text="Pomodoro (25 хв роботи)"/>
+                <outline text="перерви дають інсайти і контекст"/>
+                <outline text="перевантаження блокує мислення"/>
+            </outline>
+
+            <outline text="Ілюзія знання">
+                <outline text="знайомість ≠ розуміння"/>
+                <outline text="перечитування створює ілюзію"/>
+                <outline text="потрібна самоперевірка і пояснення"/>
+            </outline>
+
+            <outline text="Глибоке навчання VS зубріння">
+                <outline text="зубріння дає короткий ефект"/>
+                <outline text="глибоке навчання = фрагменти пам’яті"/>
+                <outline text="мозок як м’яз — потрібна практика"/>
+            </outline>
+
+            <outline text="Відволікання">
+                <outline text="переривання руйнують концентрацію"/>
+                <outline text="слабкі нейронні зв’язки"/>
+                <outline text="потрібен контроль середовища"/>
+            </outline>
+
+            <outline text="Парадокси навчання">
+                <outline text="концентрація може блокувати рішення"/>
+                <outline text="наполегливість іноді шкодить"/>
+                <outline text="метафори можуть спотворювати"/>
+            </outline>
+
+            <outline text="Крок назад">
+                <outline text="ставити питання «чи є сенс?»"/>
+                <outline text="дивитися під іншим кутом"/>
+                <outline text="дозволяти перевірку іншими"/>
+            </outline>
+
+            <outline text="Дитяче мислення">
+                <outline text="креативність і відкритість"/>
+                <outline text="візуалізація"/>
+                <outline text="допомагає зрозуміти складне"/>
+            </outline>
+
+            <outline text="Довгострокова наполегливість">
+                <outline text="важлива перспектива"/>
+                <outline text="не здаватися при труднощах"/>
+                <outline text="відрізняти від сліпої впертості"/>
+            </outline>
+
+            <outline text="Спрощення">
+                <outline text="пояснювати як дитині"/>
+                <outline text="шукати суть"/>
+                <outline text="метод Фейнмана"/>
+            </outline>
+
+            <outline text="Базові налаштування">
+                <outline text="розуміння принципів важливіше деталей"/>
+                <outline text="як у сейфах — знати основу"/>
+                <outline text="дає інтуїцію і швидкість"/>
+            </outline>
+
+            <outline text="⚡Як треба вчитися">
+                <outline text="активне пригадування"/>
+                <outline text="самоперевірка"/>
+                <outline text="формування фрагментів"/>
+                <outline text="інтервальне навчання"/>
+                <outline text="змішування задач"/>
+                <outline text="перерви"/>
+                <outline text="аналогії і пояснення"/>
+                <outline text="фокус без відволікань"/>
+                <outline text="складне — спочатку"/>
+                <outline text="мотивація через цілі"/>
+            </outline>
+
+            <outline text="❌ Як не треба вчитися">
+                <outline text="пасивне перечитування"/>
+                <outline text="сліпе підкреслення"/>
+                <outline text="дивитися готові рішення"/>
+                <outline text="навчання в останній момент"/>
+                <outline text="повтор одного типу задач"/>
+                <outline text="неефективні групи"/>
+                <outline text="ігнорування теорії"/>
+                <outline text="не ставити питання"/>
+                <outline text="навчання з відволіканнями"/>
+                <outline text="недосипання"/>
+            </outline>
+        </outline>
+    </body>
+</opml>
