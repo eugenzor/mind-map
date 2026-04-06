@@ -88,13 +88,24 @@
                 <outline text="Ефект тестування: тест як інструмент стабілізації знань"/>
             </outline>
             <outline text="8. Поради, прийоми й інструментарій">
-                <outline text="Оточення: зміна місця для боротьби із залежністю"/>
+                <outline text="Оточення">
+                    <outline text="Зміна місця навчання для розриву шкідливих звичок"/>
+                    <outline text="Мінімізація відволікань"/>
+                </outline>
                 <outline text="Планування">
                     <outline text="Список справ на тиждень"/>
                     <outline text="Щоденний план, написаний звечора"/>
-                    <outline text="Встановлення часу завершення робочого дня"/>
+                    <outline text="Час завершення робочого дня"/>
                 </outline>
-                <outline text="Технології: Anki, Evernote, StayFocusd"/>
+                <outline text="Фокус">
+                    <outline text="Короткі сесії зосередженої праці"/>
+                    <outline text="Невелика винагорода після роботи"/>
+                </outline>
+                <outline text="Інструменти">
+                    <outline text="Планування: Evernote, Google Tasks, Calendar"/>
+                    <outline text="Повторення: Anki, Quizlet"/>
+                    <outline text="Блокування відволікань: StayFocusd, Freedom"/>
+                </outline>
             </outline>
             <outline text="9. Про зомбі-прокрастинації: робимо висновки">
                 <outline text="Пауза та роздуми перед дією"/>
@@ -102,15 +113,18 @@
                 <outline text="Три місяці на повну зміну звичок"/>
             </outline>
             <outline text="10. Розвиток пам'яті">
-                <outline text="Зорова та просторова пам'ять як пріоритет"/>
-                <outline text="Візуалізація: створення дивакуватих образів"/>
-                <outline text="Техніка «Палац пам'яті»"/>
+                <outline text="Зорова й просторова пам’ять"/>
+                <outline text="Яскраві та дивакуваті образи"/>
+                <outline text="Асоціації з відомими речами"/>
+                <outline text="Техніка «Палац пам’яті»"/>
             </outline>
+
             <outline text="11. Ще трохи про пам'ять">
-                <outline text="Метафори й аналогії як ключ до розуміння"/>
+                <outline text="Метафори й аналогії"/>
                 <outline text="Асоціативні фрази та пісеньки"/>
-                <outline text="М'язова пам'ять: користь записування від руки"/>
-                <outline text="Фізичні вправи як стимулятор нейрогенезу"/>
+                <outline text="Записування від руки"/>
+                <outline text="М'язова пам'ять"/>
+                <outline text="Фізичні вправи й пам’ять"/>
             </outline>
             <outline text="12-13. Розвиток мозку і здібностей"> 
 
