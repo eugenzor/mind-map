@@ -346,9 +346,24 @@
             </outline>
 
             <outline text="18. Вивільніть свій потенціал">
-                <outline text="10 правил «Як треба вчитися»"/>
-                <outline text="10 правил «Як не треба вчитися»"/>
-                <outline text="Парадокси навчання як основа гнучкості мислення"/>
+                <outline text="Як треба вчитися">
+                    <outline text="Фокус + розсіяний режим"/>
+                    <outline text="Активне пригадування (active recall)"/>
+                    <outline text="Інтервальне повторення"/>
+                    <outline text="Практика і задачі"/>
+                    <outline text="Сон і відпочинок"/>
+                </outline>
+                <outline text="Як не треба вчитися">
+                    <outline text="Пасивне перечитування"/>
+                    <outline text="Ілюзія розуміння"/>
+                    <outline text="Безперервне зубріння"/>
+                    <outline text="Відкладання на потім"/>
+                </outline>
+                <outline text="Парадокси навчання">
+                    <outline text="Складне стає простим через практику"/>
+                    <outline text="Помилки - частина навчання"/>
+                    <outline text="Перемикання покращує розуміння"/>
+                </outline>
             </outline>
         </outline>
     </body>
